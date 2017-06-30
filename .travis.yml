@@ -1,4 +1,4 @@
 language: node_js
 node_js:
  - "node"
-script: npm run build:web:dev
+script: npm run test && npm run build:web:dev
