@@ -5,7 +5,7 @@
   "description": "Set personal system wide hotkeys to trigger customizable actions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "build:web:dev": "echo \"built $API_KEY\""
   },
   "author": "Noitidart <noitidart@gmail.com>",
