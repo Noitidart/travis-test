@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build:web:dev": "echo \"built\""
+    "build:web:dev": "echo \"built $API_KEY\""
   },
   "author": "Noitidart <noitidart@gmail.com>",
   "license": "ISC"
